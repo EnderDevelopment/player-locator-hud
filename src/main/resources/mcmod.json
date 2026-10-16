@@ -1,0 +1,12 @@
+{
+  "modid": "playerlocatorhud",
+  "name": "Player Locator HUD",
+  "description": "A mod that adds a custom HUD overlay on the XP bar showing player locations.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["Your Name"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
